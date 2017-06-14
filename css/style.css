@@ -1,0 +1,54 @@
+
+/*section-first*/
+
+.section-f{
+	background-image: url(../img/header-bg.jpg);	
+	height: 110vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.navbar-default{
+	background: transparent;
+	border: none;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.collapse .navbar-right li a{
+	color: white;
+	font-weight: bold; 
+	position: relative;
+	right: 70px;
+	top: 20px;
+}
+
+#start{
+	color: #dbc608;
+	font-family: 'Mogra', cursive;
+	font-size: 25px;
+	position: relative;
+	bottom: 40px;
+	left: 20px;
+	}
+
+#welcome{
+	color: white;
+	font-family: 'Mogra', cursive;
+	padding-top: 180px;
+	font-size: 35px;
+}
+
+#nice{
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	position: relative;
+	bottom: 15px;
+
+
+
+}
