@@ -1,6 +1,13 @@
 
 /*section-first*/
 
+*{
+	max-width: 1400px;
+	width: 100%
+	padding: 0;
+	margin: 0;
+}
+
 .section-f{
 	background-image: url(../img/header-bg.jpg);	
 	height: 110vh;
@@ -48,7 +55,187 @@
 	font-weight: bold;
 	position: relative;
 	bottom: 15px;
+}
+
+.btn-default{
+	color: white;
+	background-color: #dbc608;
+	border-radius: 0;
+	border: none;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+/*section-second*/
+.section-second{
+	height: 50vw;
+}
+
+#services{
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.lorem{
+	color: #7a7979;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Lobster Two', cursive;
+    position: relative;
+    left: 420px;
+}
+
+.fa-stack{
+	color: #FED136;
+	margin-left: 115px;
+	padding-top: 50px;
+
+}
+
+.comerce{
+	font-size: 20px;
+	font-weight: bold; 
+	padding-top: 50px;
+	position: relative;
+	left: 120px;
+}
+
+.lorem-ipsum{
+	color: #7a7979;
+	font-family: 'Lobster Two', cursive;
+	font-size: 15px;
+}
+
+.design{
+	font-size: 20px;
+	font-weight: bold; 
+	padding-top: 50px;
+	position: relative;
+	left: 75px;
+}
+
+.web{
+	font-size: 20px;
+	font-weight: bold; 
+	padding-top: 50px;
+	position: relative;
+	left: 110px;
+}
 
 
 
+/*section-three*/
+
+.section-three{
+	height: 1100px;
+	background-color: #EEEEEE;
+}
+
+#portfolio{
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.img-responsive {
+	border-top: 30px;
+	border-color: white;
+	padding-top: 50px;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.mini-texto{
+	font-weight: bold;
+	color: #7a7979;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+}
+
+
+/*section-four*/
+
+.titulodos{
+	margin-top: 10%;
+	font-weight: bold;
+}
+
+.bajada{
+	font-family: 'Lobster Two', cursive;
+	font-weight: bold;
+	color: #7a7979;
+	font-size: 15px;
+}
+
+.foto-uno{
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+.foto-dos{
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+.titulo-cuatro{
+	margin-top: 10%;
+}
+
+#circulo{
+	width: 150px;
+	height: 150px;
+	border: 2px solid  #7a7979;;
+}
+
+.parrafo-uno{
+	margin-left: 30%;
+}
+
+#otrociiculo{
+	width: 100px;
+	height: 100px;
+	border: 2px solid  #7a7979;
+
+}
+
+.parrafo-dos{
+	margin-right: 30%;
+}
+
+#circulo2{
+	margin-right: 15px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid  #7a7979;
+}
+
+#circuloamarillo{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	border: 2px solid  #7a7979;
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+#circuloamarillo2{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	border: 2px solid  #7a7979;
+	font-weight: bold;
+	font-size: 12px;
 }
