@@ -164,6 +164,10 @@
 
 /*section-four*/
 
+.section-four{
+	height: 200vh;
+}
+
 .titulodos{
 	margin-top: 10%;
 	font-weight: bold;
@@ -238,4 +242,32 @@
 	border: 2px solid  #7a7979;
 	font-weight: bold;
 	font-size: 12px;
+}
+
+
+/*section-five*/
+
+.section-five{
+	height: 1100px;
+	background-color: #EEEEEE;
+}
+
+#amazing{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 10%;
+}
+
+
+#lorem{
+	color: #7a7979;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Lobster Two', cursive;
+   }
+
+#imagen-kay{
+	margin-bottom: 5%;
+	margin-top: 5%;
+	border-radius: 50%;
 }
