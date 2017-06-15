@@ -271,3 +271,26 @@
 	margin-top: 5%;
 	border-radius: 50%;
 }
+
+#imagen-Larry{
+	margin-bottom: 5%;
+	margin-top: 5%;
+	border-radius: 50%;
+}
+
+#imagen-diana{
+	margin-bottom: 5%;
+	margin-top: 5%;
+	border-radius: 50%;
+}
+
+#kay{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.lead{
+	color: #7a7979;
+	font-family: 'Lobster Two', cursive;
+	font-size: 15px;
+}
